@@ -12,4 +12,4 @@ That program give you the following stats:
 ```console
 bash@bash:~$ ./server-stats.sh
 ```
-Project URL: https://github.com/KacperStrugala1/bash_scripts
+[Project URL: https://github.com/KacperStrugala1/bash_scripts](https://roadmap.sh/projects/server-stats)
